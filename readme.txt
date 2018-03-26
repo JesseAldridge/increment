@@ -21,3 +21,8 @@ to this:
 ```
 
 This is useful for inserting or removing a file from the sequence.
+
+
+INSTALL:
+
+ln -s $(PWD)/increment.py /usr/local/bin/increment

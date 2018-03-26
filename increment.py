@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import sys, os, re, shutil
 
 pivot = int(sys.argv[1])
